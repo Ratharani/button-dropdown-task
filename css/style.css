@@ -1,0 +1,248 @@
+* {
+  margin:0;
+  padding:0;
+  }
+ .main_container {
+	 border:1px solid black;
+	 height:200px;
+	 width:100px;
+	 background-color:blue;
+	margin-left:500px;
+	text-align:center;
+	padding:20px;
+ }
+ .sub_container a {
+	
+	 color:white;
+	 text-decoration:none;
+	
+	 
+ } 
+ 
+     /* <section 2> */
+
+.Container {
+	 border:1px solid blue;
+	 margin:10px auto;
+	 height:100px;
+	 width:600px;
+	 
+	 
+}
+.container ul {
+	list-style:none;
+}
+
+ .btn-container {
+     margin:40px auto;
+	 margin-left:50px;
+	 
+	 color:white;
+	 border:none;
+	 padding:10px;
+	 display:flex;
+	 position:relative;
+	 bottom:40px;
+	 right:20px;
+ }	 
+ .btn-one {
+	 width:50px;
+	 background-color:blue;
+	 color:white;
+	 border:none;
+	 padding:10px;
+ }
+ .btn-two {
+	 width:50px;
+	 background-color:blue;
+	 color:white;
+	 border:none;
+	 padding:10px;
+ }
+ .btn-dropdown {
+	 
+	 background-color:blue;
+	 color:white;
+	 border:none;
+	 padding:10px;
+ }
+.dropdown-container  {
+    
+    color:white;
+	border:none;
+	padding:10px;	 
+	
+	 
+}
+
+    /* <section 3> */
+.overall_container {
+	border:1px solid blue;
+	 margin:40px auto;
+	 height:100px;
+	 width:600px;
+	
+}
+.sub-contain {
+   display:flex;
+   margin:40px auto;
+}   
+
+
+.btn {
+	
+	 margin-left:80px;
+	 background-color:blue;
+	 color:white;
+	 border:none;
+	 padding:10px;
+ }	
+
+ .primary {
+	 background-color:blue;
+	  color:white;
+	border:none;
+	padding:10px;
+ }
+ .secondary {
+	 background-color:blue;
+	 color:white;
+	border:none;
+	padding:10px;
+ }
+     
+	 /* <section 4> */
+.main {
+	 border:1px solid blue;
+	 margin:40px auto;
+	 height:100px;
+	 width:600px;
+}
+.sub {
+	 display:flex;
+   margin:40px auto;
+}   
+.value {
+	margin-left:80px;
+	 background-color:red;
+	 color:white;
+	 border:none;
+	 padding:10px;
+ }	
+.class {
+	background-color:yellow;
+	  color:black;
+	border:none;
+	padding:10px;
+ }
+.id {
+	 background-color:green;
+	 color:white;
+	border:none;
+	padding:10px;
+ }
+ 
+      /* <section 5> */
+	  
+.overall {
+	border:1px solid blue;
+	 margin:40px auto;
+	 height:100px;
+	 width:600px;
+	 
+}
+.all {
+	 display:flex;
+   margin:40px auto;
+  border-radius:5px;
+}   
+.dev {
+	margin-left:80px;
+	 border:1px solid blue;
+	 color:blue;
+	 /* border:none; */
+	 padding:10px;
+}
+.div {
+	border:1px solid blue;
+	  color:blue;
+	/* border:none; */
+	padding:10px;
+}
+.del {
+	border:1px solid blue;
+	  color:blue;
+	/* border:none; */
+	padding:10px;
+}
+
+       /* <section 6> */
+.over {
+     border:1px solid blue;
+	 margin:40px auto;
+	 height:100px;
+	 width:600px;
+	 /* display:flex; */
+}
+.sub-all {
+   display:flex;
+   margin:40px auto;
+   justify-content:space-between;
+   width:300px;
+   
+}   
+.one {
+	margin-left:80px;
+	 background-color:blue;
+	 color:white;
+	 border:none;
+	 padding:10px;
+	 border-radius:4px;
+}
+.two {
+	background-color:black;
+	 color:white;
+	 border:none;
+	 padding:10px;
+	 border-radius:4px;
+	 
+}
+.three {
+	background-color:skyblue;
+	 color:white;
+	 border:none;
+	 padding:10px;
+	 border-radius:4px;
+}
+        /* <section 7> */
+.main-all {
+	border:1px solid blue;
+	 margin:40px auto;
+	 height:100px;
+	 width:600px;
+	
+}
+.sub-overall {
+	 display:flex;
+   margin:40px auto;
+   border-radius:5px;
+}   
+.link {
+	margin-left:80px;
+	 background-color:#004999;
+	 color:white;
+	 border:none;
+	 padding:10px;
+ }	
+ .first {
+	 background-color:blue;
+	  color:white;
+	border:none;
+	padding:10px;
+ }
+ .second {
+	 background-color:blue;
+	  color:white;
+	border:none;
+	padding:10px;
+ }
